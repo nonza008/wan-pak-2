@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+requests
+faster-whisper
+groq
+firebase-admin
+python-multipart

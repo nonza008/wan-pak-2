@@ -1,0 +1,42 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Secrets / Credentials
+serviceAccountKey.json
+*.pem
+*.key
+*.cert
+
+# Node / React Dashboard
+dashboard/node_modules/
+dashboard/dist/
+dashboard/build/
+dashboard/.env
+dashboard/.env.local
+dashboard/.env.development.local
+dashboard/.env.test.local
+dashboard/.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
